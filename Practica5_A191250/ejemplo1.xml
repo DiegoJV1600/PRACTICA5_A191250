@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ejemplo1.xsl"?>
+<libros>
+    <libro>
+        <titulo>Dioses, tumbas y sabios</titulo>
+        <pais>Alemania</pais>
+        <año>1949</año>
+        <autor>C. W. Ceram</autor>
+        <editorial>Ediciones Destino</editorial>
+    </libro>
+    <libro>
+        <titulo>Armas, germenes y acero</titulo>
+        <pais>Estados Unidos</pais>
+        <año>1997</año>
+        <autor>Jared Diamond</autor>
+        <editorial>DEBOLSILLO</editorial>
+    </libro>
+    <libro>
+        <titulo>El Medioevo Cristiano</titulo>
+        <pais>España</pais>
+        <año>1978</año>
+        <autor>Mario Merlino</autor>
+        <editorial>Altalena</editorial>
+    </libro>
+    <libro>
+        <titulo>Historia de la Edad Media</titulo>
+        <pais>Italia</pais>
+        <año>2003</año>
+        <autor>Indro Montanelli</autor>
+        <editorial>DEBOLSILLO</editorial>
+    </libro>
+    <libro>
+        <titulo>Historia del mundo contada para escepticos</titulo>
+        <pais>España</pais>
+        <año>2012</año>
+        <autor>Juan Eslava Galan</autor>
+        <editorial>Editorial Planeta</editorial>
+    </libro>
+    <libro>
+        <titulo>Historia del siglo XX</titulo>
+        <pais>Estados Unidos</pais>
+        <año>1994</año>
+        <autor>Eric Hobsbawm</autor>
+        <editorial>Critica</editorial>
+    </libro>
+</libros>
